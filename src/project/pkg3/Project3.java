@@ -6,7 +6,7 @@ package project.pkg3;
  * @author Elias
  * @version 1.0
  */
-//WOW GITHUB IM FAMOUS
+//Github Test
 public class Project3 {
 
     static GameScreen gs = new GameScreen();
